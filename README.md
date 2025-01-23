@@ -10,12 +10,12 @@ This is a simple full-stack application built with **Node.js**, **Express**, and
 
 ## **Project Structure**
 
-\`\`\`
+`
 root/
 ├── backend/    # Backend files (Node.js + Express API)
 ├── frontend/   # Frontend files (React application)
 └── README.md   # Documentation
-\`\`\`
+`
 
 ---
 
@@ -34,27 +34,27 @@ Before running the project, ensure you have the following installed:
 ## **Steps to Run the Application**
 
 ### 1. Clone the Repository
-\`\`\`bash
+`bash
 git clone <repository-url>
 cd fullstack-app
-\`\`\`
+`
 
 ### 2. Run the Backend
 
 #### Navigate to the backend directory:
-\`\`\`bash
+`bash
 cd backend
-\`\`\`
+`
 
 #### Install dependencies:
-\`\`\`bash
+`bash
 npm install
-\`\`\`
+`
 
 #### Start the backend server:
-\`\`\`bash
+`bash
 node index.js
-\`\`\`
+`
 
 - The server will start at **\`http://localhost:5001\`**.
 
@@ -63,19 +63,19 @@ node index.js
 ### 3. Run the Frontend
 
 #### Navigate to the frontend directory:
-\`\`\`bash
+`bash
 cd ../frontend
-\`\`\`
+`
 
 #### Install dependencies:
-\`\`\`bash
+`bash
 npm install
-\`\`\`
+`
 
 #### Start the React development server:
-\`\`\`bash
+`bash
 npm start
-\`\`\`
+`
 
 - The application will open in your browser at **\`http://localhost:3000\`**.
 
