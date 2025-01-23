@@ -144,9 +144,9 @@ npm start
 
 ## **Contributors**
 
-- **[Your Name]**
-  - Email: [Your Email]
-  - GitHub: [Your GitHub Profile]
+- **Saulo Mendes Martins**
+  - Email: saulommartins@gmail.com
+  - GitHub: saulommartins
 
 ---
 
