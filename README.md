@@ -12,9 +12,13 @@ This is a simple full-stack application built with **Node.js**, **Express**, and
 
 `
 root/
+
 ├── backend/    # Backend files (Node.js + Express API)
+
 ├── frontend/   # Frontend files (React application)
+
 └── README.md   # Documentation
+
 `
 
 ---
